@@ -223,6 +223,9 @@
 
 - (void)connection:(NSURLConnection *)connection didFailWithError:(NSError *)error {
     NSLog(@"error = %@", [error localizedDescription]);
+    NSString *message = [NSString stringWithFormat:@"%@", [error localizedDescription]];
+    UIAlertView *alert = [[UIAlertView alloc]initWithTitle:@"Error" message:message delegate:self cancelButtonTitle:@"Close" otherButtonTitles:nil];
+    [alert show];
 }
 
 

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E25CF2EE-6885-484B-9B4F-C78AC56401DF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NavCtrl</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>694B2A902B8CB8F020E8C3442151EEA764F37CDD</key>
+		<string>https://github.com/johnCbogil/NavCtrl-NSUserDefaults.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Original/NavCtrl.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>694B2A902B8CB8F020E8C3442151EEA764F37CDD</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/johnCbogil/NavCtrl-NSUserDefaults.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>694B2A902B8CB8F020E8C3442151EEA764F37CDD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>694B2A902B8CB8F020E8C3442151EEA764F37CDD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NavCtrl%20NSUserDefualts</string>
+		</dict>
+	</array>
+</dict>
+</plist>
